@@ -13,7 +13,7 @@
 
 ### Description
 
-Welcome SAAVE finance, designed to provide an easy and simple way for beginners to enter the world of decentralized finance. Our protocol offers a user-friendly interface that allows you to track your profits in real-time, making it easy to manage your investments.
+Welcome SAAVE , designed to provide an easy and simple way for beginners to enter the world of decentralized finance. Our protocol offers a user-friendly interface that allows you to track your profits in real-time, making it easy to manage your investments.
 
 We have combined the most battle-tested protocols to deliver a safe and profitable experience. Our protocol works by first depositing stablecoins into AAVE, one of the most trusted lending protocols in the DeFi space. AAVE allows you to earn interest on your stablecoins by lending them to borrowers.
 
