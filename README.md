@@ -6,13 +6,10 @@
 
 ### Creators
 
-| Name            | Github                                         | Discord         |
-| --------------- | ---------------------------------------------- | --------------- |
-| Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100)   | codefunky   |
-| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harsh shende  |
-
-
-
+| Name         | Github                                         | Discord      |
+| ------------ | ---------------------------------------------- | ------------ |
+| Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100) | codefunky    |
+| Harsh Shende | [@harshshen](https://github.com/Harshshen)     | harsh shende |
 
 ### Description
 
@@ -24,14 +21,22 @@ Once you have deposited your stablecoins into AAVE, you will receive an AToken a
 
 By combining these protocols, we offer a safe and profitable way for you to earn passive income on your stablecoins. Our protocol is designed to be user-friendly and easy to navigate, making it accessible to beginners who are just getting started with DeFi.
 
-
 SAAVE is deployed on Polygon, a fast and low-cost side chain scaling solution for Ethereum. This allows for faster transaction times and lower fees, making it more accessible for everyone to use. With Polygon, you can enjoy the benefits of our DeFi protocol without having to worry about high gas fees or slow transaction times. Join us on Polygon today and start earning passive income on your stablecoins!
 
-
 ## The problem SAAVE Finance solves
-It is hard for beginners to understand how to use current DeFi protocols that are in the ecosystem. UX is complicated in other apps and requires a lot of knowledge about how these programs work. We fix this by providing an easy to understand UI that is not seen in other applications, and we have a one click solution to do multiple investment strategies that have stood the test of time. Our platform allows users to view their dollars gained in real time, a feature not included in any other application. We also try to educate our users about where their money is going by providing information on each protocol interacted with and rewarding an NFT for reading and watching our content. Overall SAAVE is an introductory platform designed for people who are not experienced in DeFi to quickly dive in and invest in some of the safest profits the ecosystem has to offer in just a few clicks. This is a project that is not just a hackathon project, but a project our team is passionate about and plans to build further after the hackathon.
+
+Traditional lending systems often exclude a significant portion of
+the global population due to barriers like credit checks, high
+interest rates, and centralized control. The challenge is to create a
+decentralized lending or borrowing platform that provides
+financial services to individuals without a traditional credit history,
+promoting inclusivity and reducing reliance on traditional
+banking.
+Moreover, It is hard for beginners to understand how to use current DeFi protocols that are in the ecosystem. UX is complicated in other apps and requires a lot of knowledge about how these programs work.
+SAAVE fix this by providing an easy to understand UI that is not seen in other applications, and we have a one click solution to do multiple investment strategies that have stood the test of time. Our platform allows users to view their dollars gained in real time, a feature not included in any other application. We also try to educate our users about where their money is going by providing information on each protocol interacted with and rewarding an NFT for reading and watching our content. Overall SAAVE is an introductory platform designed for people who are not experienced in DeFi to quickly dive in and invest in some of the safest profits the ecosystem has to offer in just a few clicks. This is a project that is not just a hackathon project, but a project our team is passionate about and plans to build further after the hackathon.
 
 ## How SAAVE gonna fit in Ethereum + Polygon track
+
 SAAVE leverages Ethereum's robust smart contract capabilities to integrate with AAVE, a trusted lending protocol, allowing users to earn interest on stablecoins.
 
 The project seamlessly integrates with Polygon, a side chain scaling solution for Ethereum, ensuring faster transaction times and lower fees, enhancing accessibility for users.
@@ -42,8 +47,8 @@ FITS INTO ETHEREUM + POLYGON TRACK TRACK
 
 ### Preview
 
-
 ## Set up Project
+
 Here's how to setup and run the project locally :
 
 ### Prerequisites
@@ -60,7 +65,6 @@ Done with the pre-requisites?
 
 Here are the steps to be taken after that :
 
-
 1. Clone the repository:
 
 ```bash
@@ -72,6 +76,7 @@ git clone https://github.com/InfiniteCoder100/SAAVE.git
 ```bash
 cd main-app
 ```
+
 3. Install dependencies :
 
 ```bash
@@ -80,12 +85,14 @@ npm install
 yarn install
 ```
 
-4. Run 
+4. Run
 
 ```bash
 npm run dev
   or
 yarn dev
-````
-### License 
+```
+
+### License
+
 MIT
