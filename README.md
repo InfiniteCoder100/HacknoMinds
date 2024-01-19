@@ -33,6 +33,7 @@ financial services to individuals without a traditional credit history,
 promoting inclusivity and reducing reliance on traditional
 banking.
 Moreover, It is hard for beginners to understand how to use current DeFi protocols that are in the ecosystem. UX is complicated in other apps and requires a lot of knowledge about how these programs work.
+
 SAAVE fix this by providing an easy to understand UI that is not seen in other applications, and we have a one click solution to do multiple investment strategies that have stood the test of time. Our platform allows users to view their dollars gained in real time, a feature not included in any other application. We also try to educate our users about where their money is going by providing information on each protocol interacted with and rewarding an NFT for reading and watching our content. Overall SAAVE is an introductory platform designed for people who are not experienced in DeFi to quickly dive in and invest in some of the safest profits the ecosystem has to offer in just a few clicks. This is a project that is not just a hackathon project, but a project our team is passionate about and plans to build further after the hackathon.
 
 ## How SAAVE gonna fit in Ethereum + Polygon track
